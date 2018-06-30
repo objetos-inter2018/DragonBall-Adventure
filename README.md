@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+# Dragon Ball adventure
 
-You can use the [editor on GitHub](https://github.com/objetos-inter2018/DragonBall_adventure/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Dragon ball adventure es un juego en 2d de disapros en el cual pondras a prueba tus movimienos y punteria.
+
+![Goku](https://www.gratistodo.com/wp-content/uploads/2016/02/Dragon-Ball-Z-Wallpapers-HD-21-800x600.jpg)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
