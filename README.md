@@ -90,8 +90,12 @@ El ultimo es Kid buu y tiene la maxima barra de salud junto con la velocidad mas
 
 **Link de pagina de Grenfoot**
 
+[Ir a juego](http://www.greenfoot.org/scenarios/21826)
+
 **Link de Youtube**
 
-**Autor**
+[Ir a video](https://www.youtube.com/watch?v=A9qCW4xrnYU&t=19s)
+
+**Autor**:
 
 LUIS EDUARDO CARDONA BECERRA
