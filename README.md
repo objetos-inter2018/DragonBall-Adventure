@@ -88,7 +88,7 @@ El ultimo es Kid buu y tiene la maxima barra de salud junto con la velocidad mas
 
 ![Kidbuu](https://vignette.wikia.nocookie.net/dragonball/images/f/f7/Kid_Buu_Artwork.png/revision/latest?cb=20170114202745&path-prefix=es)
 
-**Link de pagina de Grenfoot**
+**Link de pagina de Greenfoot**
 
 [Ir a juego](http://www.greenfoot.org/scenarios/21826)
 
